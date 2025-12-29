@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+*{
+  color: white;
+}
+
+body{
+  background: #000;
+}
+
+#flex::-webkit-scrollbar{
+  display: none;
+}
